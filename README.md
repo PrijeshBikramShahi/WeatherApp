@@ -33,8 +33,8 @@ A beautiful and responsive weather app built with Flutter that provides real-tim
 2.  **Clone:**
 
     ```bash
-    git clone [https://github.com/yourusername/flutter-weather-app.git](https://github.com/yourusername/flutter-weather-app.git)
-    cd flutter-weather-app
+    git clone [https://github.com/PrijeshBikramShahi/WeatherApp.git](https://github.com/PrijeshBikramShahi/WeatherApp.git)
+    cd WeatherApp
     ```
 
 3.  **Install:**
@@ -84,15 +84,10 @@ This project is open-source under the MIT License. See the `LICENSE` file for de
 
 ---
 
-### 🙏 Thanks
-
-Special thanks to OpenWeatherMap, the Flutter Team, GetX, and Dio for their excellent tools.
-
----
 
 ### 📞 Contact
 
-[Your Name] - [@yourusername] - [email@example.com]
-Project Link: https://github.com/yourusername/flutter-weather-app
+Prijesh Bikram Shahi - PrijeshBikramShahi - prijeshshahi0@gmail.com
+Project Link: https://github.com/PrijeshBikramShahi/WeatherApp
 
 ⭐ If you found this project useful, please star it! ⭐
