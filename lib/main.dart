@@ -6,6 +6,7 @@ import 'weather_view.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 void main() {
+  // ignore: unused_element
   Future<void> main() async { // Make main async
   WidgetsFlutterBinding.ensureInitialized(); // Required
   await dotenv.load(fileName: ".env"); // Load the .env file
